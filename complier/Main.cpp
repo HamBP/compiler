@@ -19,14 +19,3 @@ auto printTokenList(vector<Token> tokenList)->void {
 }
 
 static string::iterator current;
-
-auto scan(string sourceCode)->vector<Token> {
-	vector<Token> result;
-	sourceCode += '\0';
-	current = sourceCode.begin();
-	while (*current != '\0') {
-
-	}
-	result.push_back({ Kind::EndOfToken });
-	return result;
-}
