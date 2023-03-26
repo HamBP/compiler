@@ -1,3 +1,2 @@
 ﻿  Scanner.cpp
-C:\Users\algosketch\source\repos\complier\complier\Scanner.cpp(30,64): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
   complier.vcxproj -> C:\Users\algosketch\source\repos\complier\Debug\complier.exe
